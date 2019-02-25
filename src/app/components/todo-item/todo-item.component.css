@@ -1,0 +1,23 @@
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 20px;
+    font-size: 1.3em;
+    background-color: #E0EDF4;
+    border-left: 5px solid #3EB3F6;
+    margin-bottom: 2px;
+    color: #3E5252;
+    list-style-type:none;
+}
+
+.del{
+    border-radius: 50%;
+   border: 0px;
+    background:red;
+    color: white;
+    margin-left: 20%;
+}
+.completed{
+    text-decoration: line-through;
+}
